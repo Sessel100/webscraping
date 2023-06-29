@@ -45,4 +45,4 @@ btn_2.pack()
 root.mainloop()
 
 
-# captured text feeds into open window fucntion
+# captured text feeds into open window function
